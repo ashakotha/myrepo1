@@ -15,8 +15,8 @@ namespace ConsoleApplication2
             calculator c = new calculator();
             var s = c.sum(4, 5);
             Console.WriteLine("sum is:" + s);
-            s = c.sub(4, 5);
-            Console.WriteLine("sub is:" + s);
+            s = c.divide(4, 5);
+            Console.WriteLine("div is:" + s);
             Console.ReadLine();
         }
     }
