@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace calculatorlib
 {
     public class calculator
+
     {
+        
         public int sum(int a,int b)
         {
             return a + b;
@@ -20,9 +22,6 @@ namespace calculatorlib
         {
             return a - b;
         }
-        public int divide(int a, int b)
-        {
-            return a / b;
-        }
+        
     }
 }
