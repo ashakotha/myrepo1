@@ -17,6 +17,8 @@ namespace ConsoleApplication2
             Console.WriteLine("sum is:" + s);
             s = c.divide(4, 5);
             Console.WriteLine("div is:" + s);
+            s = c.sub(4, 5);
+            Console.WriteLine("sub is:" + s);
             Console.ReadLine();
         }
     }
