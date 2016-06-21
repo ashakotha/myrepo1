@@ -1,0 +1,3 @@
+[submodule "consolelogger"]
+	path = consolelogger
+	url = https://github.com/ashakotha/consolelogger.git
