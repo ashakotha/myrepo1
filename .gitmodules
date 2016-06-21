@@ -1,3 +1,6 @@
 [submodule "consolelogger"]
 	path = consolelogger
 	url = https://github.com/ashakotha/consolelogger.git
+[submodule "writelinelogger"]
+	path = writelinelogger
+	url = https://github.com/ashakotha/writelinelogger.git
