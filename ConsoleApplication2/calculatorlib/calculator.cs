@@ -11,8 +11,8 @@ namespace calculatorlib
         /// <summary>
         /// calculator
         /// </summary>
-        /// <param name="a"></param>
-        /// <param name="b"></param>
+        /// <param name="a">first parameter</param>
+        /// <param name="b">second parameter</param>
         /// <returns></returns>
         public int sum(int a,int b)
         {
